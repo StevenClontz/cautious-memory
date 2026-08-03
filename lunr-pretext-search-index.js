@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1",
   "title": "Course Syllabus",
-  "body": " Course Syllabus  "
+  "body": " Course Syllabus  do your homework  "
 },
 {
   "id": "sec-course-overview",
